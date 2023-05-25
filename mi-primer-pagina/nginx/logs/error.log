@@ -1,0 +1,7 @@
+2023/05/25 13:03:24 [notice] 6584#1692: signal process started
+2023/05/25 13:03:24 [error] 6584#1692: OpenEvent("Global\ngx_stop_10612") failed (5: Access is denied)
+2023/05/25 13:06:55 [emerg] 1984#2804: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2023/05/25 13:07:01 [emerg] 4868#10392: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2023/05/25 13:07:37 [emerg] 7264#4816: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2023/05/25 13:07:50 [notice] 8588#4016: signal process started
+2023/05/25 13:07:54 [emerg] 5380#9048: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
